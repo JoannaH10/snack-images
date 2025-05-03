@@ -2,7 +2,7 @@
     "egypt": [
     {
       "name": "Fanta, Red Apple",
-      "image": "https://github.com/JoannaH10/snack-images/blob/main/egypt/Bake%20Rolz%20-%20Extra%20Spicy%20Kebab.webp",
+      "image": "https://raw.githubusercontent.com/JoannaH10/snack-images/refs/heads/main/egypt/Bake%20Rolz%20-%20Extra%20Spicy%20Kebab.webp",
       "price": 5.0,
       "category": "Beverages"
     },
