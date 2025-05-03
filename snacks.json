@@ -1,0 +1,149 @@
+{
+    "egypt": [
+    {
+      "name": "Fanta, Red Apple",
+      "image": "https://raw.githubusercontent.com/JoannaH10/snack-images/main/egypt/Fanta%2C%20Red%20Apple.webp",
+      "price": 5.0,
+      "category": "Beverages"
+    },
+    {
+      "name": "Fayrouz, Apple",
+      "image": "https://raw.githubusercontent.com/JoannaH10/snack-images/main/egypt/Fayrouz%2C%20Apple.webp",
+      "price": 5.0,
+      "category": "Beverages"
+    },
+    {
+      "name": "Fayrouz, Pineapple",
+      "image": "https://raw.githubusercontent.com/JoannaH10/snack-images/main/egypt/Fayrouz%2C%20Pineapple.webp",
+      "price": 5.0,
+      "category": "Beverages"
+    },
+    {
+      "name": "KITKAT 2 Finger Raspberry Blast",
+      "image": "https://raw.githubusercontent.com/JoannaH10/snack-images/main/egypt/KITKAT%202%20Finger%20Rasberry%20Blast.webp",
+      "price": 4.0,
+      "category": "Chocolate"
+    },
+    {
+      "name": "KITKAT 4 Finger Coffee Chocolate",
+      "image": "https://raw.githubusercontent.com/JoannaH10/snack-images/main/egypt/KITKAT%204%20FINGER%20COFFEE%20CHOCOLATE.webp",
+      "price": 6.0,
+      "category": "Chocolate"
+    },
+    {
+      "name": "Kitkat Hazelnut Crunch",
+      "image": "https://raw.githubusercontent.com/JoannaH10/snack-images/main/egypt/Kitkat%20Hazelnut%20Crunch.avif",
+      "price": 6.0,
+      "category": "Chocolate"
+    },
+    {
+      "name": "Lay’s French Cheese",
+      "image": "https://raw.githubusercontent.com/JoannaH10/snack-images/main/egypt/Lay%E2%80%99s%20french%20cheese.webp",
+      "price": 8.0,
+      "category": "Chips"
+    },
+    {
+      "name": "Lay’s Salt and Vinegar",
+      "image": "https://raw.githubusercontent.com/JoannaH10/snack-images/main/egypt/Lay%E2%80%99s%20salt%20and%20vinegar.jpg",
+      "price": 8.0,
+      "category": "Chips"
+    },
+    {
+      "name": "Lion Chips Cheese",
+      "image": "https://raw.githubusercontent.com/JoannaH10/snack-images/main/egypt/Lion%20Chips%20Cheese.webp",
+      "price": 7.0,
+      "category": "Chips"
+    },
+    {
+      "name": "Lion Chips Ketchup",
+      "image": "https://raw.githubusercontent.com/JoannaH10/snack-images/main/egypt/Lion%20Chips%20Ketchup.webp",
+      "price": 7.0,
+      "category": "Chips"
+    },
+    {
+      "name": "Lion Kabob Chips",
+      "image": "https://raw.githubusercontent.com/JoannaH10/snack-images/main/egypt/Lion%20Kabob%20Chips.webp",
+      "price": 7.0,
+      "category": "Chips"
+    },
+    {
+      "name": "Lion Salt and Vinegar Chip",
+      "image": "https://raw.githubusercontent.com/JoannaH10/snack-images/main/egypt/Lion%20Salt%20and%20Vinegar%20Chip.webp",
+      "price": 7.0,
+      "category": "Chips"
+    },
+    {
+      "name": "Lion Chicken",
+      "image": "https://raw.githubusercontent.com/JoannaH10/snack-images/main/egypt/Lion%20chicken.webp",
+      "price": 7.0,
+      "category": "Chips"
+    },
+    {
+      "name": "Lion Marinated Cheese",
+      "image": "https://raw.githubusercontent.com/JoannaH10/snack-images/main/egypt/Lion%20marinated%20cheese.webp",
+      "price": 7.0,
+      "category": "Chips"
+    },
+    {
+      "name": "Lion Salt",
+      "image": "https://raw.githubusercontent.com/JoannaH10/snack-images/main/egypt/Lion%20salt.webp",
+      "price": 7.0,
+      "category": "Chips"
+    },
+    {
+      "name": "Maltesers",
+      "image": "https://raw.githubusercontent.com/JoannaH10/snack-images/main/egypt/Maltesers.jpg",
+      "price": 10.0,
+      "category": "Chocolate"
+    },
+    {
+      "name": "Miranda Green Apple",
+      "image": "https://raw.githubusercontent.com/JoannaH10/snack-images/main/egypt/Miranda%20Green%20Apple.webp",
+      "price": 5.0,
+      "category": "Beverages"
+    },
+    {
+      "name": "Miranda Pomegranate",
+      "image": "https://raw.githubusercontent.com/JoannaH10/snack-images/main/egypt/Miranda%20Pomegranate.webp",
+      "price": 5.0,
+      "category": "Beverages"
+    },
+    {
+      "name": "Rani Float Fruit Juice, Mango",
+      "image": "https://raw.githubusercontent.com/JoannaH10/snack-images/main/egypt/Rani%20Float%20Fruit%20Juice%2C%20Mango.webp",
+      "price": 5.0,
+      "category": "Beverages"
+    },
+    {
+      "name": "Rani Float Fruit Juice, Orange",
+      "image": "https://raw.githubusercontent.com/JoannaH10/snack-images/main/egypt/Rani%20Float%20Fruit%20Juice%2C%20Orange.webp",
+      "price": 5.0,
+      "category": "Beverages"
+    },
+    {
+      "name": "Rani Float Fruit Juice, Peach",
+      "image": "https://raw.githubusercontent.com/JoannaH10/snack-images/main/egypt/Rani%20Float%20Fruit%20Juice%2C%20Peach.webp",
+      "price": 5.0,
+      "category": "Beverages"
+    },
+    {
+      "name": "Rani Float Fruit Juice, Pineapple",
+      "image": "https://raw.githubusercontent.com/JoannaH10/snack-images/main/egypt/Rani%20Float%20Fruit%20Juice%2C%20Pineapple.webp",
+      "price": 5.0,
+      "category": "Beverages"
+    },
+    {
+      "name": "Schweppes Gold",
+      "image": "https://raw.githubusercontent.com/JoannaH10/snack-images/main/egypt/Schweppes%20Gold.webp",
+      "price": 5.0,
+      "category": "Beverages"
+    },
+    {
+      "name": "Schweppes Pomegranate",
+      "image": "https://raw.githubusercontent.com/JoannaH10/snack-images/main/egypt/Schweppes%20pomegranate.webp",
+      "price": 5.0,
+      "category": "Beverages"
+    }
+]
+}
+  
